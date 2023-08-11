@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Business Card App</string>
+    <string name="business_owner_email">sarakhaled@gmail.com</string>
+    <string name="business_owner_phone_number">01153111947</string>
+    <string name="business_owner_instagram_handle">\@sarahKhalid45</string>
+    <string name="female_photographer_image_description">Female photographer holding a camera.</string>
+    <string name="business_owner_name">Sarah Khaled</string>
+    <string name="business_owner_title">Wedding Photographer</string>
+    <string name="wedding_background_description">A bride and her groom kissing in the woods.</string>
+</resources>
