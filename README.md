@@ -37,4 +37,6 @@ Course URL: https://developer.android.com/courses/android-basics-compose/course
 
 ✔ How to add custom fonts 
 
+✔ How to customize an image using the difffernt modifiers
+
 ✔ How to use `Spacer()`
